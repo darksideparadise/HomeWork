@@ -1,0 +1,12 @@
+.text--bold{
+    color:blueviolet; 
+}
+
+div .child {
+    color: aqua;
+
+}
+
+a {
+    color: green;
+}
