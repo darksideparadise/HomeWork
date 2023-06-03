@@ -2,9 +2,12 @@
     color:blueviolet; 
 }
 
-.parent, .child {
+.parent>.child {
     color: aqua;
 }
-#blog {
+a:link {
     color: green;
+}
+a:visited {
+    color: brown;
 }
