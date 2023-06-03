@@ -1,0 +1,10 @@
+.text--bold{
+    color:blueviolet; 
+}
+
+.parent, .child {
+    color: aqua;
+}
+#blog {
+    color: green;
+}
