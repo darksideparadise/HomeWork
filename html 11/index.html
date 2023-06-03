@@ -13,10 +13,14 @@
     <form>
         <fieldset>
             <legend>Ваши данные</legend>
-            <input type="text">
-            <button type="submit">Введите ваше имя</button>
-            <input type="text">
-            <button type="submit">Введите ваш город</button>
+            <label>
+                Введите ваше имя
+                <input type="text">
+            </label>
+            <label>
+                Введите ваш город
+                <input type="text">
+            </label>
             <select name="city">
                 <option value="Пусто">--Не выбрано--</option>
                 <option value="Москва">Москва</option>
@@ -25,21 +29,21 @@
                 <option value="Екатеринбург">Екатеринбург</option>
                 <option value="Сочи">Сочи</option>
             </select>
-            </select>
         </fieldset>
         <fieldset>
             <legend>Данные вашего питомца</legend>
-            <input type="text">
-            <button type="submit">Кличка вашего питомца</button>
-            <input type="text">
-            <button type="submit">Возраст питомца</button>
+            <label>
+                Кличка вашего питомца
+                <input type="text">
+            </label>
+            <label>
+                Возраст питомца
+                <input type="text">
+            </label>
         </fieldset>
-        <button type="submit">Отправить данные</button>
-        <button type="reset">Удалить данные</button>
-
+        <input type="submit">
+        <input type="reset">
     </form>
-    
-
+   
 </body>
-
 </html>
