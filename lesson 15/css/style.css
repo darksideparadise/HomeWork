@@ -5,9 +5,7 @@
 .parent>.child {
     color: aqua;
 }
-a:link {
+
+a[href="#blog"] {
     color: green;
-}
-a:visited {
-    color: brown;
 }
