@@ -1,0 +1,12 @@
+.start__text {
+    font-family: 'Nunito', sans-serif;
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-left: 25px;
+    height: 100px;
+    max-height: 50vh;
+    overflow-y: auto;
+    
+}
+
+
