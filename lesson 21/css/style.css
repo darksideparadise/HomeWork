@@ -1,0 +1,55 @@
+@font-face {
+    font-family: "Godzilla";
+    font-weight: 400;
+    src:  local("Godzilla"),
+            url(../fonts/Godzilla.ttf) format("ttf"),
+            url(../fonts/Godzilla.woff) format("woff");
+    font-style: normal;
+    font-display: swap;
+}
+
+.start__title {
+    font-size: 3rem;
+    line-height: 200%;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800;
+}
+
+.start__title-2 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 800 Italic;
+    font-size: 1.5rem;
+    
+}
+
+.start__text {
+    font-family: 'Nunito', sans-serif;
+    color: rgb(88, 86, 86);
+    line-height: 150%;
+    transform: translatey(20%);
+    
+}
+
+.start__text2 {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 500;
+    color: rgb(88, 86, 86);
+    line-height: 150%;
+    transform: translatey(50%);
+}
+
+.start__autor {
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 300;
+    color: #000;
+    line-height: 600%;
+    transform: translatey(100%);
+}
+
+.start__text-3 {
+    font-family: "Godzilla", sans-serif;
+    font-weight: 400;
+    color: #000;
+    line-height: 150%;
+    transform: translatey(10%);
+}
