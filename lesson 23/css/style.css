@@ -1,0 +1,17 @@
+.start {
+    padding: 150px 150px 150px;
+    height: 100vh;
+}
+
+.start__block {
+    padding: 300px 300px 200px;
+    height: 100%;
+    border: 1px solid #4b4848;
+    box-shadow: 0 0 5px #4b4848;
+    border-radius: 10px;
+    background: url(../images/2X9kiY.jpg) no-repeat, linear-gradient(#1bbbc0, #b2bef7);
+    background-position: 50% 50%;
+
+}
+
+
