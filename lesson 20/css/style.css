@@ -1,0 +1,16 @@
+.start__title {
+    font-size: 3rem;
+    line-height: 200%;
+}
+
+.start__title-2 {
+    font-size: 1.5rem;
+    
+}
+
+.start__text {
+    color: rgb(88, 86, 86);
+    line-height: 150%;
+    transform: translatey(20%);
+    
+}
