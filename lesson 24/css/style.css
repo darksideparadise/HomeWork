@@ -1,0 +1,16 @@
+.start {
+    position: relative;
+}
+
+.start__block {
+    background: linear-gradient(#ddeb5f, #9cec41);
+    min-height: 100px;
+    min-width: 20px;
+    border: 1px solid #4b4848;
+    box-shadow: 0 0 5px #4b4848;
+    border-radius: 10px;
+    position: fixed;
+    bottom: 100px;
+    right: 50px;
+    left: 50%;
+}
