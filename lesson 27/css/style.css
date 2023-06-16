@@ -1,0 +1,18 @@
+.text {
+    font-family:"Nunito";
+    font-size: 2rem;
+    text-indent: 30px;
+    animation: color-text 5s linear infinite alternate;
+}
+
+@keyframes color-text {
+    0%{
+        color: #eb7373;
+    }
+    50%{
+        color: #f30707;
+    }
+    100%{
+        color: #000;
+    }
+}
