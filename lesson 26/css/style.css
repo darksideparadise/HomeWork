@@ -1,0 +1,29 @@
+.green {
+    background-color: aquamarine;
+    width: 100vh;
+    height: 50vh;
+    border:solid 5px #c7c2c2;
+    transition: border 3s linear 2s;
+}
+
+.green:hover {
+    border:solid 5px #000;
+}
+
+.blue {
+    background-color: rgb(225, 120, 247);
+    width: 100vh;
+    height: 50vh;
+    border:solid 5px #c7c2c2;
+    transition-duration: 3s;
+    transition-timing-function: linear;
+    transition-delay: 2s;
+    
+}
+
+
+.blue:hover {
+    border:solid 5px #000;
+    
+}
+
