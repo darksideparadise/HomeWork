@@ -1,7 +1,3 @@
-.start {
-    position: relative;
-}
-
 .start__block {
     background: linear-gradient(#ddeb5f, #9cec41);
     min-height: 100px;
