@@ -14,10 +14,8 @@
     border-radius: 10%;
 }
 
-.menu__item--1:hover {
+.menu__item:first-child:hover {
     color: #d45858;
     transition: 2s;
 }
 
-/* Сделала обращение через модификатор, тк не поняла
- как одновременно приписать и hover и first-child */
