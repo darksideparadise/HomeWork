@@ -1,0 +1,23 @@
+.menu {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: 1fr;
+    column-gap: 20px;
+    
+}
+
+.menu__item {
+    color: #473b3b;
+    font-size: 2rem;
+    background-color: #c2c1bf;
+    border: 2px solid #000;
+    border-radius: 10%;
+}
+
+.menu__item--1:hover {
+    color: #d45858;
+    transition: 2s;
+}
+
+/* Сделала обращение через модификатор, тк не поняла
+ как одновременно приписать и hover и first-child */
