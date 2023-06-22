@@ -1,0 +1,13 @@
+.block {
+    background-color: antiquewhite;
+    display: grid;
+    grid-template-rows: repeat(2, auto);
+    grid-template-columns: 1fr 1fr minmax(100px, 200px) 1fr 1fr;
+}
+
+.block__item {
+    padding: 40px;
+    border: 3px dashed #747272;
+}
+
+
